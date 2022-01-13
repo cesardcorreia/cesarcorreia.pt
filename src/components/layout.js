@@ -21,6 +21,7 @@ const Layout = ({ children }) => {
             formats={["auto", "webp", "avif"]}
             alt="Correia. Cesar Correia"
             className="!rounded-full w-40 shadow-lg"
+            imgStyle={{ borderRadius: '100%' }}
           />
           <h2 className="text-4xl font-semibold text-blue-500">césar c.</h2>
           <div class="flex gap-4 text-gray-600">
