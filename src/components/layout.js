@@ -20,7 +20,7 @@ const Layout = ({ children }) => {
             src="../images/me.jpeg"
             formats={["auto", "webp", "avif"]}
             alt="Correia. Cesar Correia"
-            className="rounded-full w-40 shadow-lg"
+            className="!rounded-full w-40 shadow-lg"
           />
           <h2 className="text-4xl font-semibold text-blue-500">césar c.</h2>
           <div class="flex gap-4 text-gray-600">
