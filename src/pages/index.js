@@ -10,7 +10,7 @@ const IndexPage = () => (
     <Helmet>
       <title>césar c. - fullstack developer</title>
     </Helmet>
-    <div className="mt-10 w-2/4 flex gap-4 flex-col justify-center mx-auto">
+    <div className="mt-10 md:w-2/4 flex gap-4 flex-col justify-center mx-auto">
       <h3 className="text-gray-800 text-2xl font-bold">
         Sou um Fullstack Developer em Porto, Portugal.
       </h3>

@@ -6,7 +6,7 @@ import Seo from "../components/seo"
 
 const SecondPage = () => (
   <Layout>
-    <div className="mt-10 w-2/4 flex gap-4 flex-col justify-center mx-auto">
+    <div className="mt-10 md:w-2/4 flex gap-4 flex-col justify-center mx-auto">
     <div className="">
         <p class="text-gray-800 text-xl font-semibold mb-2">Desenvolvimento:</p>
         <ul className="list-disc mx-8">
