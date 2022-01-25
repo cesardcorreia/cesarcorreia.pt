@@ -25,8 +25,8 @@ const Layout = ({ children }) => {
           />
           <h2 className="text-4xl font-semibold text-blue-500">césar c.</h2>
           <div class="flex gap-4 text-gray-600">
-            <Link className="transition hover:gray-800" to="/uses">uses</Link>
             <Link className="transition hover:gray-800" to="/">about</Link>
+            <Link className="transition hover:gray-800" to="/uses">uses</Link>
           </div>
         </div>
         <div>{children}</div>

@@ -57,6 +57,9 @@ const SecondPage = () => (
           <li>
             Teclado Corsair K55
           </li>
+          <li>
+            Monitor LG 34GL750-B de 34" UltraWide Curvo 144hz
+          </li>
         </ul>
       </div>
     </div>
