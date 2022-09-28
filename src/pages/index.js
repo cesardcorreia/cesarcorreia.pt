@@ -39,6 +39,18 @@ const IndexPage = () => (
           <li>
             <a
               className="italic text-blue-500 underline transition hover:text-blue-800"
+              href="https://tem-multibanco.pt"
+              target="_blank"
+            >
+              tem-multibanco.pt
+            </a>{" "}
+            - Uma plataforma para poder informar as pessoas se certos estabelecimentos têm meios de pagamento eletrônicos.
+          </li>
+        </ul>
+        <ul className="list-disc mx-8">
+          <li>
+            <a
+              className="italic text-blue-500 underline transition hover:text-blue-800"
               href="https://devoabastecer.pt"
               target="_blank"
             >
