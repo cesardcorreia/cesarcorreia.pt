@@ -14,7 +14,7 @@ import "./layout.css"
 const Layout = ({ children }) => {
   return (
     <>
-      <div className="bg-gray-50 border-8 border-blue-500 w-screen h-full xl:h-screen px-4 py-10">
+      <div className="bg-gray-50 border-8 border-blue-500 w-screen h-full px-4 py-10">
         <div className="flex flex-col items-center justify-center gap-4 ">
           <StaticImage
             src="../images/me.jpeg"
